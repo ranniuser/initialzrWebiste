@@ -1,1 +1,1 @@
-# initialzrWebsite
+# initialzrWebiste
